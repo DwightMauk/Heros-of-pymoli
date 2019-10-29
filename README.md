@@ -1,4 +1,4 @@
-# Heros-of-pymoli
+# Heros-of-pymoli-pandas
 Report includes the following:
 
 
@@ -16,31 +16,31 @@ Percentage and Count of Other / Non-Disclosed
 Purchasing Analysis (Gender)
 
 
-The below is broken by gender
+The below is broken down by gender:
 
 Purchase Count
 Average Purchase Price
 Total Purchase Value
-Average Purchase Total per Person by Gender
+Average Purchase Total 
 
 
 
 
 
 Age Demographics
-The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, >20)
 
 Purchase Count
 Average Purchase Price
 Total Purchase Value
-Average Purchase Total per Person by Age Group
+Average Purchase Total 
 
 
 
 
 
-Top Spenders
-Identified the the top 5 spenders in the game by total purchase value, then list (in a table):
+
+Identified the the top 5 spenders in the game by total purchase value, then list (in each table):
 
 SN
 Purchase Count
