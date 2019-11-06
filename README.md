@@ -10,6 +10,8 @@ Average Purchase Price
 Total Number of Purchases
 Total Revenue
 Gender Demographics
+
+![gender](genders.PNG)
 Percentage and Count of Male Players
 Percentage and Count of Female Players
 Percentage and Count of Other / Non-Disclosed
