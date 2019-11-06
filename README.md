@@ -37,6 +37,7 @@ Average Purchase Price
 Total Purchase Value
 Average Purchase Total 
 
+![age](age_count.PNG)
 
 
 
